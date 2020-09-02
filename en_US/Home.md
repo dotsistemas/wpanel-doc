@@ -1,7 +1,7 @@
 # Wpanel CMS user guide
 This will guide you through the implementation of a full website with Wpanel, a CodeIgniter based CMS.
 
-# Overview
+# Intro
 This project was born with the necessity to create an easy and cheap website without the comon sense that is using solutions like Wordpress or Joomla that are full of features but also it's full of complex codes and infinite plugins.What in the end, make the proccess pretty confuse.
 
 # Features
